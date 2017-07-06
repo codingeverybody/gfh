@@ -3,7 +3,7 @@ function a(){
 }
 
 function b(){
-	return 'B';
+	return 'bB';
 }
 
 function c(){
